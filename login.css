@@ -1,0 +1,19 @@
+.logIn {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(red, green, blue, alpha);
+    background-color: gray;
+    padding: 10px;
+    margin: 8% auto 0;
+    text-align: center;
+    height: 550px;
+    border-radius: 20px;
+}
+
+.input_box {
+    border-radius: 20px;
+    padding: 25px;
+    margin: 20px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+}
